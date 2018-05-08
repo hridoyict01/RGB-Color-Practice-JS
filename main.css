@@ -19,6 +19,15 @@ h1 {
     text-align: center;
 
 }
-span {
-    color: white;
+
+
+#strip {
+    background-color: white;
+    height: 30px;
+    text-align: center;
+    color: black;
+}
+
+.selected {
+    background-color: blue;
 }
